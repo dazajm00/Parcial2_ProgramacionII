@@ -56,4 +56,5 @@ public class Dragon extends Criatura implements Volador {
 
     public String getEscamas() { return escamas; }
     public Arma   getArma()    { return arma;    }
+    
 }

@@ -24,4 +24,5 @@ public class Arma {
     public String getNombre() {
         return nombre;
     }
+    
 }
