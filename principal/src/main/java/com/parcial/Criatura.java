@@ -26,5 +26,6 @@ public abstract class Criatura {
     public String getNombre() { return nombre; }
     public int    getSalud()  { return salud;  }
     public int    getFuerza() { return fuerza; }
+
     
 }
