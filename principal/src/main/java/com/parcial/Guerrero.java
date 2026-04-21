@@ -46,5 +46,4 @@ public class Guerrero extends Criatura {
     public String getTipoArmadura() { return tipoArmadura; }
     public Arma   getArma()         { return arma;         }
     
-
 }

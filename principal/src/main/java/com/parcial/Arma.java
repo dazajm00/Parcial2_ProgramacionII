@@ -25,5 +25,4 @@ public class Arma {
         return nombre;
     }
     
-
 }
