@@ -27,5 +27,5 @@ public abstract class Criatura {
     public int    getSalud()  { return salud;  }
     public int    getFuerza() { return fuerza; }
 
-    
+
 }
