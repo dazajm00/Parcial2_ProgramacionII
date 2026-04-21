@@ -1,9 +1,9 @@
-# ⚔️ Sistema de Batalla de Criaturas
+#  Sistema de Batalla de Criaturas
 ### Parcial II – Programación II | G411
 
 ---
 
-## 📋 Descripción General
+##  Descripción General
 
 Este proyecto implementa un sistema de juego de batallas entre criaturas usando los principios fundamentales de la Programación Orientada a Objetos: **herencia**, **polimorfismo**, **clases abstractas**, **interfaces** y **composición**.
 
@@ -16,7 +16,7 @@ Las criaturas disponibles son **Dragón**, **Guerrero** y **Mago**, cada una con
 
 ---
 
-## 🏗️ Decisiones de Diseño
+##  Decisiones de Diseño
 
 ### 1. Clase Abstracta `Criatura`
 
@@ -115,7 +115,7 @@ if (criatura1 instanceof Volador) {
 
 ---
 
-## 🧪 Pruebas Unitarias (JUnit 5)
+##  Pruebas Unitarias (JUnit 5)
 
 Las pruebas están en `BatallaTest.java` y cubren los siguientes casos:
 
@@ -144,7 +144,7 @@ mvn test
 
 ---
 
-## 🚀 Cómo Ejecutar el Proyecto
+##  Cómo Ejecutar el Proyecto
 
 ### Prerrequisitos
 
@@ -169,7 +169,7 @@ java -jar target/batalla-criaturas-1.0-SNAPSHOT.jar
 
 ---
 
-## 🔧 Dependencias (`pom.xml`)
+##  Dependencias (`pom.xml`)
 
 ```xml
 <!-- JUnit 5 para pruebas unitarias -->
@@ -189,16 +189,14 @@ java -jar target/batalla-criaturas-1.0-SNAPSHOT.jar
 
 ---
 
-## 👥 Integrantes
+##  Integrantes
 
-| Nombre | Rol |
-|---|---|
-| Integrante 1 | Juan Manuel Daza  |
-| Integrante 2 | Camila Rodriguez |
+ Juan Manuel Daza  
+ Camila Rodriguez 
 
 ---
 
-## 📌 Flujo de Git Recomendado
+##  Flujo de Git Recomendado
 
 ```bash
 # Crear rama por funcionalidad
